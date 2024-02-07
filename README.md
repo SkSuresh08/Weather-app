@@ -9,4 +9,7 @@
 
 //then you have local host link..that paste your browser to view the output.
 
-I cannot upload node_modules folder..I add entire project as Zip file that contains node_modules folder :)
+I cannot upload node_modules folder..I upload the entire project zip file in Wetransfer.
+
+Wetransfer link : https://we.tl/t-sOFIeQQZKq 
+click to download entire project file
